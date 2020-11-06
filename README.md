@@ -10,6 +10,7 @@ CS1300 Writeup for Iterative Redesign
 ## Collaboration:
 * Let's each try to take a section to avoid merge conflicts
 * If you're taking a section, add it to the README here so all of the team members know what you're working on.
+* If you're making use of images and other resources, place them in `img/` for a central repository of all assets
 
 ## Formatting for collaboration:
 * `HTML`: 2 spaces
